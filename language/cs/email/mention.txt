@@ -1,0 +1,20 @@
+Předmět: Upozornění o odpovědi na téma - "{{ TOPIC_TITLE }}"
+
+Dobrý den {{ USERNAME }},
+
+Obdrželi jste toto upozornění, protože "{{ AUTHOR_NAME }}" vás zmínil v tématu "{{ TOPIC_TITLE }}" na stránkách "{{ SITENAME }}". Pro zobrazení odpovědi můžete použít následující odkaz.
+
+Pokud si chcete prohlédnout příspěvek, ve kterém jste byli zmíněni, klikněte na následující odkaz:
+{{ U_VIEW_POST }}
+
+Pokud si chcete prohlédnout toto téma, klikněte na následující odkaz:
+{{ U_TOPIC }}
+
+Pokud si chcete prohlédnout toto fórum, klikněte na následující odkaz:
+{{ U_FORUM }}
+
+Pokud si již nepřejete dostávat aktualizace v odpovědích, ve kterých jste zmíněni, aktualizujte prosím své nastavení oznámení zde:
+
+{{ U_NOTIFICATION_SETTINGS }}
+
+{{ EMAIL_SIG }}

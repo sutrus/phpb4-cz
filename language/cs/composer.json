@@ -1,0 +1,27 @@
+{
+  "name": "phpbb/phpbb-language-cs",
+  "description": "phpBB Forum Software český jazyk",
+  "type": "phpbb-language",
+  "version": "4.0.0-a1-dev",
+  "homepage": "https://www.phpbb.cz",
+  "license": "GPL-2.0",
+  "authors": [
+    {
+      "name": "phpBB česká podpora",
+      "email": "operations@phpbb.com",
+      "homepage": "https://www.phpbb.cz"
+    }
+  ],
+  "support": {
+    "issues": "https://tracker.phpbb.com",
+    "forum": "https://www.phpbb.com/community/",
+    "wiki": "https://wiki.phpbb.com",
+    "irc": "irc://irc.freenode.org/phpbb"
+  },
+  "extra": {
+    "language-iso": "cs",
+    "english-name": "Czech",
+    "local-name": "Čeština",
+    "phpbb-version": "4.0.0-a1-dev"
+  }
+}

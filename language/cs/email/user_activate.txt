@@ -1,0 +1,9 @@
+Předmět: Reaktivace vašeho účtu
+
+Dobrý den {USERNAME},
+
+Váš účet na fóru „{SITENAME}“ byl deaktivován. Reaktivaci provedete kliknutím na následující odkaz:
+
+{U_ACTIVATE}
+
+{EMAIL_SIG}
